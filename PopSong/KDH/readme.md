@@ -35,9 +35,9 @@
 | 01 | TITLE | Takedown      | HUNTR X   | 헌트릭스와 귀마와의 전투신에서 부른곡 |
 | 02 | TITLE | How It’s Done | HUNTR X   | 비행기 전투에서 부른 오프닝곡 | 
 | 03 | TITLE | Soda Pop      | Saja Boys | 사자보이즈 데뷔 곡 | 
-| 04 | TITLE | Golden        | HUNTR X   | 헌트릭스 신곡 | 
+| 04 | TITLE | Golden        | HUNTR X   | 헌트릭스 신곡 - 영화의 주제곡 | 
 | 05 |       | Strategy      | TWICE     |             |
-| 06 | TITLE | Your Idol     | Saja Boys | 사자보이즈의 신곡이자 마지막 곡 | 
+| 06 | TITLE | Your Idol     | Saja Boys | 사자보이즈의 신곡 - 얘네들 주제곡 | 
 | 07 |       | Free          | Rumi&Jinu | 루미와 진우의 듀엣곡 | 
 | 08 |       | What It Sounds Like | HUNTR X | 귀마를 무찌를 때 부른 대단원 곡 |
 
