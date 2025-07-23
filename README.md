@@ -2,7 +2,7 @@
 
 ---
 
-- LaLa Philharmonic Orchestra
-- Favorite Pop Music
-- My Spotify
+- [LaLa Philharmonic Orchestra](./LaLaPhil/)
+- [Favorite Pop Music](./PopSong/)
+- [My Spotify](./Spotify/)
 
