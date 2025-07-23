@@ -16,8 +16,8 @@
 
 ### GOLEDEN
 
-I was a ghost, I was alone, 
-어~두워진, 앞~길속에 (Ah)
+I was a ghost, I was alone
+Hah~ 어두워진, Hah~ 앞길속에 (Ah)
 Given the throne, I didn't know how to believe
 I was the queen that I'm meant to be
 
